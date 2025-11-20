@@ -11,6 +11,7 @@ After completing the **CS50P: Introduction to Programming with Python** (and ear
 - 🌐 **HTML & CSS** – Frontend basics for building websites  
 - 🐍 **Python** – My first language and still my favorite for scripting & automation  
 - 💠 **C#** – Especially for Windows-based applications and tools (and also to improve my OOP)
+- **Typescript + React + NextJS + TailwindCSS** - My Webdevelopment Stack
 
 ---
 
